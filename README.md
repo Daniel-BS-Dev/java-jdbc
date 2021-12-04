@@ -20,6 +20,10 @@
 - Servidor Postgres
 - pgAdmin
 
+## Modelo conceitual
+
+![Sem título](https://user-images.githubusercontent.com/81425846/144721965-aedf525f-e450-4352-a760-5eab376c5b39.png)
+
 ## Criação e instanciação da base de dados
 ```````java
 create table tb_order (
